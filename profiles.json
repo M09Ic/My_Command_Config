@@ -245,20 +245,22 @@
             "useAcrylic" : true
         },
         {
-        	"acrylicOpacity" : 0.4,
+            "acrylicOpacity" : 0.4,
             "background" : "#212121",
             "useAcrylic" : true,
             "colorScheme" : "MaterialDark",
+            "fontFace" : "JetBrains Mono",
             "guid": "{46ca431a-3a87-5fb3-83cd-11ececc031d2}",
             "hidden": false,
             "name": "kali-linux",
             "source": "Windows.Terminal.Wsl"
         },
         {
-        	"acrylicOpacity" : 0.4,
+            "acrylicOpacity" : 0.4,
             "background" : "#212121",
             "useAcrylic" : true,
-            "colorScheme" : "cyberpunk",            
+            "fontFace" : "JetBrains Mono",
+            "colorScheme" : "cyberpunk",       
             "guid": "{c6eaf9f4-32a7-5fdc-b5cf-066e8a4b1e40}",
             "hidden": false,
             "name": "Ubuntu-18.04",
